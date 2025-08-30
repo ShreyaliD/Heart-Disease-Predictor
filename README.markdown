@@ -3,7 +3,7 @@
 ![Model](https://img.shields.io/badge/Model-Random%20Forest-blue) ![Python](https://img.shields.io/badge/Python-3.12-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Overview
-A Python-based ML project to predict heart disease using the UCI Heart Disease dataset. Built in Google Colab, it uses Random Forest to predict disease severity (0: No, 1-4: Yes). Features preprocessing, EDA, model training, and user predictions.
+A Python-based ML project to predict heart disease using the UCI Heart Disease dataset. Built in Google Colab, it uses Random Forest to predict disease severity . Features preprocessing, EDA, model training, and user predictions.
 
 ## 🚀 Features
 - 🧹 Preprocesses data: missing values, encoding, scaling.
@@ -41,7 +41,7 @@ A Python-based ML project to predict heart disease using the UCI Heart Disease d
 ## ▶️ Usage
 - **Colab**: Upload `Disease_Predictor.ipynb`, run cells, upload `kaggle.json`.
 - **Local**: Run `jupyter notebook Disease_Predictor.ipynb`.
-- **Predict**: Use `Heart_user_template.csv`, fill data, upload for predictions (0 = No disease, 1+ = Disease).
+- **Predict**: Use `Heart_user_template.csv`, fill data, upload for predictions .
 
 Example Input:
 ```
@@ -62,13 +62,12 @@ age,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,sex_Female,sex_
 - Cloud deployment (AWS/GCP) ☁️
 
 ## 👨‍💻 Author
-- [Your Name]
-- [Your LinkedIn]
-- [Your Email]
+- [Shreyali Dhabale]
+- [www.linkedin.com/in/shreyali-dhabale/]
+- [dhabaleshreyali@gmail.com]
 
 ## 📄 License
 MIT License
 
 ## 🙏 Acknowledgments
 - Dataset: [UCI Heart Disease](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
-- Built with ❤️ in Google Colab
