@@ -63,7 +63,7 @@ age,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,sex_Female,sex_
 
 ## 👨‍💻 Author
 - [Shreyali Dhabale]
-- [www.linkedin.com/in/shreyali-dhabale/]
+- [www.linkedin.com/in/shreyali-dhabale-263135338/]
 - [dhabaleshreyali@gmail.com]
 
 ## 📄 License
